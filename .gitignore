@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+
+__history
+/__history
+__history/
+
+/__history/
