@@ -135,6 +135,7 @@ __published:	// IDE-managed Components
 	TEdit *Edit16;
 	TButton *Button21;
 	TEdit *Edit17;
+	TLabel *Label31;
 
 
 	void __fastcall mostrarClick(TObject *Sender);
